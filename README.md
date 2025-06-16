@@ -51,4 +51,6 @@ This guide is solely provided for educational purposes. The information supplied
 
 
 
-Update: Cache links
+
+
+Update: Navigation repair
