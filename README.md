@@ -61,4 +61,6 @@ This guide is solely provided for educational purposes. The information supplied
 
 
 
-Update:  24.06.2025 Updated contributor profile links
+
+
+Update: Fixed non-working link
