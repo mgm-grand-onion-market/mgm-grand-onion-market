@@ -65,4 +65,6 @@ This guide is solely provided for educational purposes. The information supplied
 
 
 
-Update:  04.07.2025 04:29 link is active
+
+
+Update:  Monday 07 July 2025 url is back up and live
