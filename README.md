@@ -73,4 +73,6 @@ This guide is solely provided for educational purposes. The information supplied
 
 
 
-Update:  07/21/2025 21-52 url is now accessible
+
+
+Update:  24.07.2025 11:50 I'm pleased to announce that the link is back up.
