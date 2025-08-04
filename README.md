@@ -75,4 +75,6 @@ This guide is solely provided for educational purposes. The information supplied
 
 
 
-Update:  24.07.2025 11:50 I'm pleased to announce that the link is back up.
+
+
+Update:  04 August 2025
