@@ -77,4 +77,6 @@ This guide is solely provided for educational purposes. The information supplied
 
 
 
-Update:  04 August 2025
+
+
+Update:  08/13/2025 Repaired dead links
