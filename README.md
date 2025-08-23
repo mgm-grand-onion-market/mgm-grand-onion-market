@@ -81,4 +81,6 @@ This guide is solely provided for educational purposes. The information supplied
 
 
 
-Update:  19.08.2025
+
+
+Update:  23 August
